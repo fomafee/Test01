@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>
-	한글테스트sdfakdfjkldasjfkjkalsd
+	한글테스트
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
