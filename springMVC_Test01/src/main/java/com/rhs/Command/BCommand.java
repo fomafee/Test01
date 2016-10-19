@@ -10,5 +10,5 @@ public interface BCommand {
 	void execute(Model model);
 
 	void execute(HttpServletRequest request, HttpServletResponse response);
-asdgasdgasdgadsgasdgsa
+
 }
